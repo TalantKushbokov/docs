@@ -19,7 +19,7 @@ topics:
   - Notifications
   - Accounts
 ---
-## About forks
+### About forks
 
 Most commonly, forks are used to either propose changes to someone else's project to which you do not have write access, or to use someone else's project as a starting point for your own idea. You can fork a repository to create a copy of the repository and make changes without affecting the upstream repository. For more information, see "[Working with forks](/github/collaborating-with-issues-and-pull-requests/working-with-forks)."
 
@@ -82,7 +82,7 @@ gh repo fork <em>repository</em> --org "octo-org"
 {% desktop %}
 {% enddesktop %}
 
-## Cloning your forked repository
+### Cloning your forked repository
 
 Right now, you have a fork of the Spoon-Knife repository, but you do not have the files in that repository locally on your computer.
 
