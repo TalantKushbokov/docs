@@ -21,7 +21,6 @@ children:
   - /working-with-forks
   - /collaborating-on-repositories-with-code-quality-features
   - /proposing-changes-to-your-work-with-pull-requests
-  - /addressing-merge-conflicts
   - /reviewing-changes-in-pull-requests
   - /incorporating-changes-from-a-pull-request
 shortTitle: Collaborate with pull requests
